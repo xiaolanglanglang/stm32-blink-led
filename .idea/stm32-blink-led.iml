@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/cortex-m-rt-a982f3ef2c68ab87/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/syn-ee6c50abc5836848/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/debug/build/proc-macro2-daf59ade8230a2b9/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/cortex-m-semihosting-29220595a3341557/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/cortex-m-e4f876d092b8fc8d/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/typenum-5700ed38e36b0c7e/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/bare-metal-a2cf0227b4e57630/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/stm32f103xx-hal-0faa34b9752c92aa/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/cortex-m-ffb92d5434f8ba29/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/stm32f103xx-8a965362df75bb7b/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/cast-b043eefb4759fd33/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/stm32f1-c03d95bb9af7f3f0/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/target/thumbv7m-none-eabi/debug/build/cortex-m-rt-c9b7b2620e3e9969/out" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
